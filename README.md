@@ -1,2 +1,3 @@
 # Hello-World
-my frist github use
+Hi Humans!
+I'm Damith
